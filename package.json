@@ -1,0 +1,8 @@
+{
+  "name": "ambesh-dev-github-portfolio",
+  "version": "7.0.0",
+  "private": true,
+  "description": "Ambesh.dev GitHub Pages portfolio with Supabase-powered online admin panel, database and image storage.",
+  "scripts": { "start": "npx serve ." },
+  "devDependencies": {}
+}

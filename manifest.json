@@ -1,0 +1,8 @@
+{
+  "name": "Ambesh.dev",
+  "short_name": "Ambesh.dev",
+  "start_url": "./index.html#home",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#2563eb"
+}
